@@ -27,7 +27,6 @@ public class Hook {
             System.out.println("Test completed!");
         }
         System.out.println("##############################");
-        //after every test, we gonna close browser
         Driver.close();
     }
 }
