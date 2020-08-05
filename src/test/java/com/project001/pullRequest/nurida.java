@@ -6,6 +6,9 @@ public class nurida {
 
         System.out.println("This is from Nurida");
         System.out.println("Hello, how are you");
+
+
+        System.out.println("This is from Nurida");
     }
 
 }
